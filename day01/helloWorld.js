@@ -1,0 +1,5 @@
+console.log("Hello World")
+console.log("%cBesiktas","color : red;font-size:large")
+console.log("%cBesiktas","color : red;font-size:medium")
+console.log("%cBesiktas","color : red;font-size:x-large")
+console.log("%cBesiktas","color : red;font-size:small")
